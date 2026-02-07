@@ -1,0 +1,8 @@
+.vscode/
+.idea/
+.venv/
+__pycache__/
+
+.ptm_workspace/
+todo.md
+.DS_Store
